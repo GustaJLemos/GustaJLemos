@@ -1,6 +1,6 @@
-<h1 align="center">Opa, tudo bem? 👋 Prazer eu sou o Gustavo 😄</h1> 
+<h1 align="center">Opa, tudo bem? 👋 Eu sou o Gustavo!</h1> 
   
-- 🌱 Atualmente estou focando em criar novos projetos com os conhecimentos que já tenho.
-- 👓 Já aprendi um pouco de C, HTML, CSS, Git, GitHub, MySql, JavaScript e PHP.
-- 😎 No momento estou focado em aprender muito JavaScript.
+- 📱 Sou estagiário em desenvolvimento Mobile com React Native na Sistema Iris. 
+- 🌱 Atualmente estou focano em me desenvolver como profissional, aprender novas skills, evoluir e fazer novos projetos para consolidar meu conhecimento.
+- 👓 Já aprendi um pouco de C, HTML, CSS, Git, GitHub, MySql, JavaScript, PHP, Angular, React e agora estou me aprofundando em React Native.
 - 💫 Estou sempre buscando conhecimento, qualquer ajuda é sempre bem vinda!
